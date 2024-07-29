@@ -40,6 +40,18 @@ This project involves the development of insightful Power BI dashboards to analy
 - **Power BI**: For creating interactive and dynamic dashboards.
 - **DAX (Data Analysis Expressions)**: For data modeling, calculations, and visual enhancements.
 
+## DASHBOARDS:
+
+1. **YOUTUBE DASHBOARD**
+   <img width="659" alt="youtubeimg" src="https://github.com/user-attachments/assets/499045e3-f8f0-44e9-b0ba-12080eb3ef66">
+
+2. **INSTAGRAM DASHBOARD**
+   <img width="659" alt="instagramimg" src="https://github.com/user-attachments/assets/5394de43-aa39-4609-b994-fbe8df5ffa24">
+
+3. **TIKTOK DASHBOARD**
+   <img width="661" alt="tiktokimg" src="https://github.com/user-attachments/assets/bcfd5d3e-5b88-4838-a001-7ec406d24ca8">
+
+
 ## Installation and Usage
 
 1. **Clone the repository**:
