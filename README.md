@@ -44,7 +44,7 @@ This project involves the development of insightful Power BI dashboards to analy
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/social-media-engagement-analysis.git
+    git clone https://github.com/rohan12345a/Power-BI-Dashboards-for-Comprehensive-Social-Media-Engagement-Analysis
     ```
 2. **Open the Power BI file**:
     - Download and install Power BI Desktop from [here](https://powerbi.microsoft.com/desktop/).
